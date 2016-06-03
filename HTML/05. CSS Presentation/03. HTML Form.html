@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HTML Form</title>
+		<link rel="stylesheet" href="03. HTML Form.css" />
+	</head>
+	<body>
+		<form>
+			<fieldset >
+				<p>Step 1: Your details</p>
+				<div>
+					<label for="name" />Name</label>
+					<input type="text" placeholder="First and last name" id="name" />
+				</div>
+				<div>
+					<label for="email" />Email</label>
+					<input type="email" placeholder="example@domain.com" id="email" />
+				</div>
+				<div>
+					<label for="phone" />Phone</label>
+					<input type="tel" placeholder="eg. +447500000000" id="phone" />
+				</div>
+			</fieldset>
+			<fieldset>
+				<p>Step 1: Delivery address</p>
+				<div id="address">
+					<label for="address" />Address</label>
+					<textarea rows="5" cols="22" id="address" ></textarea>
+				</div>
+				<div>
+					<label for="postCode" />Post code</label>
+					<input type="number" id="postCode" />
+				</div>
+				<div>
+					<label for="country" />Country</label>
+					<input type="text" id="country" />
+				</div>
+			</fieldset>
+			<fieldset>
+				<p>Step 1: Card details</p>
+				<div>
+					<label for="cardType" />Card type</label><br />
+					<input type="radio" id="cardType"><img src="visa.jpg" height="15px" /> VISA</input>
+					<input type="radio" id="cardType"><img src="amex.jpg" height="15px" /> AmEx</input>
+					<input type="radio" id="cardType"><img src="mastercard.jpg" height="15px"/> Mastercard</input>
+				</div>
+				<div>
+					<label for="cardNumber" />Card number</label>
+					<input type="number" id="cardNumber" />
+				</div>
+				<div>
+					<label for="securityCode" />Security code</label>
+					<input type="number" id="securityCode" />
+				</div>
+				<div>
+					<label for="nameOnCard" />Name on card</label>
+					<input type="text" id="nameOnCard" placeholder="exact name as on the card" />
+				</div>
+			</fieldset>
+			<input type="submit" value="BUY IT!" />
+		</form>
+	</body>
+</html>

@@ -1,0 +1,40 @@
+body{
+	font-family: Arial;
+	font-size: 1.5em;
+}
+
+div.rainbow{
+	border-radius: 100px;
+	box-shadow:
+		inset 0 0 0 2px blue,
+		inset 0 0 0 4px green,
+		inset 0 0 0 6px yellow,
+		inset 0 0 0 8px red;
+	padding-top: 1px;
+	padding-bottom: 30px;
+}
+
+span.NEEBOTON{
+	background-color: #D8921A;
+	border: 5px solid orange;
+	border-style: outset;
+	padding: 0px 10px;
+}
+
+
+h1, p, div.notbuttons{
+	text-align: center;
+}
+
+p, h1{	
+	font-weight: normal;
+	text-shadow: 8px 8px 7px #A0A0A0;
+}
+
+.outer{
+	width: 30%;
+	border-top: 10px dotted yellow;
+	border-left: 10px dashed red;
+	border-bottom: 10px double blue;
+	border-right: 10px solid green;
+}

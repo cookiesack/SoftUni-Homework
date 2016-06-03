@@ -1,0 +1,81 @@
+div{
+	border: 1px solid black;
+	border-radius: 50%;
+}
+
+div div{
+	position: absolute;
+}
+
+div#head{
+	position: relative;
+	background-color: yellow;
+	height: 300px;
+	width: 300px;
+}
+
+div#eyeLeft, div#eyeRight{
+	background-color: white;
+	height: 55px;
+	width: 55px;
+
+}
+
+div#eyeLeft{
+	left: 60px;
+	top: 20%;
+}
+
+div#eyeRight{
+	left: 190px;
+	top: 20%;
+}
+
+div#pupilLeft, div#pupilRight{
+	background-color: black;
+	width: 16px;
+	height: 16px;
+}
+
+div#pupilLeft{
+	left: 30px;
+	top: 30px;
+}
+
+div#pupilRight{
+}
+
+div#nose{
+	background-color: red;
+	top: 45%;
+	left: 43%;
+	width: 45px;
+	height: 45px;
+}
+
+div#mouth{
+	background-color: white;
+	top: 65%;
+	left: 28%;
+	width: 135px;
+	height: 55px;
+	border-radius: 40px;
+}
+
+div#toothLeft{
+	background-color: white;
+	top: -2%;
+	left: 28%;
+	width: 25px;
+	height: 25px;
+	border-radius: 0px 0px 8px 8px;
+}
+
+div#toothRight{
+	background-color: white;
+	top: -2%;
+	left: 48%;
+	width: 25px;
+	height: 25px;
+	border-radius: 0px 0px 8px 8px;
+}

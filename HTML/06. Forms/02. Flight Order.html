@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Flight Order</title>
+		<style>
+			div{
+			margin-top:0;
+			margin-bottom:0;
+			margin-left:auto;
+			margin-right:auto;
+			width:50%;
+			border:2;
+			border-color:yellow;
+			}
+			
+			i{
+			font-size:12px;
+			}
+		</style>
+	</head>
+	<body style="font-family:tahoma; background-color:pink">
+		<h1 style="text-align: center; font-style: italic;">FLIGHT ORDER</h1>
+		<div style="width:402px;">
+			<form>
+				<div style="height:280px; float:left;">
+					<i>From</i><br />
+					<select style="width:150px">
+						<option selected>enter a city</option>
+						<option>Plovdiv</option>
+						<option>Ruse</option>
+						<option>Sofia</option>
+						<option>Varna</option>
+						<option>Yambol</option>
+					</select><br />
+					<br />
+					<i>Departure Date</i><br />
+					<input type="date" value="12-16-2015" /><br />
+					<i>Return Date</i><br />
+					<input type="date" value="12-16-2015" /><br />
+					<i style="padding-right:26px">12+</i><i style="padding-right:26px">2-12</i><i style="padding-right:26px">0-2</i><br />
+					<input type="number" value="0" min="0" style="width:20%">
+					<input type="number" value="0" min="0" style="width:20%">
+					<input type="number" value="0" min="0" style="width:20%">
+				</div>
+				<div style="height:280px; float:right;">
+					<i>To</i><br />
+					<select style="width:150px">
+						<option selected>enter a city</option>
+						<option>Plovdiv</option>
+						<option>Ruse</option>
+						<option>Sofia</option>
+						<option>Varna</option>
+						<option>Yambol</option>
+					</select>
+					<br />
+					<input type="checkbox" id="directs">
+					<label for="directs"><i>Prefer directs</i></label>
+					<br />
+					<i>Time Interval</i><br />
+					<input type="time" value="00:00" />
+					<input type="time" value="23:59" /><br />
+					<i>Time Interval</i><br />
+					<input type="time" value="00:00" />
+					<input type="time" value="23:59" /><br />
+					<i>Choose class</i><br />
+					<select style="width:150px">
+						<option selected>Economy</option>
+						<option>Business</option>
+						<option>First</option>
+					</select>
+				</div>
+			</form>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,45 @@
+body{
+	font-family:tahoma;
+	background-image:URL("resources/formBackground.jpg");
+}
+
+p{
+	color:white;
+}
+
+fieldset{
+	border:none;
+}
+
+div{
+	border:1px solid white;
+	border-radius:5px;
+	background-color:RGBA(255,255,255,0.4);
+	padding:10px;
+	margin-bottom:2px;
+	width:400px;
+	position:relative;
+}
+
+label{
+	width:10px;
+	vertical-align:top;
+}
+
+input:not([type=radio]), textarea{
+	position:absolute;
+	left:30%;
+}
+
+div#address{
+	height:85px;
+}
+
+input[type=submit]{
+	background-color:black;
+	color:white;
+	border-radius:16px;
+	border-color:black;
+	padding:6px 24px;
+	left:13%;
+}

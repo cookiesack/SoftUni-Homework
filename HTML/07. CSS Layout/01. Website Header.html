@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>SoftUni Header</title>
+		<style>
+		ul{
+		position: absolute;
+		top: 40px;
+		right: 20px;
+		}
+		
+		li{
+		margin: 0px 15px;
+		display: inline;
+		}
+		
+		header{
+		height: 74px;
+		background-color: #234465;
+		}
+		
+		img#logo{
+		position: absolute;
+		}
+		
+		div#controls{
+		position: absolute;
+		top: 15px;
+		right: 30px;
+		height: 26px;
+		
+		}
+		
+		div#controls ul{
+		positi: absolute;}
+		
+		div#controls ul:after{
+		display: block;
+		clear: both;
+		}
+		
+		button#notifications{
+		top: 10px;
+		right: 200px;
+		background-image: url('notificationsbutton.png');
+		height: 26px;
+		width: 26px;
+		margin: 0;
+		padding: 0;
+		}
+		
+		button#search{
+		position: relative;
+		
+		right: 20px;
+		background-image:url('searchbutton.png');
+		height: 26px;
+		width: 26px;
+		padding: 0;
+		}
+		
+		input[type='text']{
+		position: relative;
+		height: 20px;
+		top: -8px;
+		right: 0px;
+		}
+		
+		}
+		li.hasdropdown:hover ul.dropdown{
+		display: block;
+		background-color: #234465;
+		}
+		
+		ul.dropdown{
+		position: absolute;
+		top: 10px;
+		display: none;
+		}
+		</style>
+	</head>
+	<body style="font-family:tahoma; font-weight:bold; font-size:8pt; color:#B6C6D5">
+			<a href="https://softuni.bg"><img id="logo" src="softunibetalogo.png" alt="SoftUni"/></a>
+			<header>
+				<ul>
+					<li>NEWS</li>
+					<li class="hasdropdown">ABOUT THE UNIVERSITY
+					<ul class="dropdown">
+					<li>DROPDOWN1</li>
+					<li>DROPDOWN2</li>
+					<li>DROPDOWN3</li>
+					</ul></li>
+					<li>TRAINING COURSES</li>
+					<li>FOR COMPANIES</li>
+					<li>FORUM</li>
+					<li>CONTACTS</li>
+				</ul>
+				<div id="controls">
+					0<button id="notifications" style="" onclick="https://softuni.bg"></button>
+					USER
+					<input type="text" name="search" placeholder="Search"/>
+					<button id="search" style="" href="https://softuni.bg"></button>
+				</div>
+			</header>
+	</body>
+</html>
+		}
+		

@@ -1,0 +1,56 @@
+body{
+	background-image: URL("resources/HawaiiBackground.png");
+	background-size: 100%;
+}
+
+img, p{
+	position: absolute;
+}
+
+@font-face {
+   font-family: myFirstFont;
+   src: url(resources/Animated.ttf);
+}
+
+p.party{
+	left: 70%;
+	font-family: myFirstFont;
+	font-size: 4em;
+	color: #FFB600;
+}
+
+.Nakov{
+	left: 45%;
+	top: 55%;
+	height: 45%;
+}
+
+.Alex{
+	left: 60%;
+	top: 60%;
+	height: 40%;
+}
+
+.VladoG{
+	left: 10%;
+	top: 60%;
+	height: 40%;
+}
+
+.VladoK{
+	left: 70%;
+	top: 65%;
+	height: 40%;
+}
+
+.Petia{
+	left: 30%;
+	top: 60%;
+	height: 40%;
+}
+
+.Tedi{
+	left: 40%;
+	top: 85%;
+	height: 30%;
+}
