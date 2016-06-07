@@ -1,0 +1,6 @@
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 07 - Phonebook\bin\Debug\Problem 07 - Phonebook.exe.config
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 07 - Phonebook\bin\Debug\Problem 07 - Phonebook.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 07 - Phonebook\bin\Debug\Problem 07 - Phonebook.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 07 - Phonebook\obj\Debug\Problem 07 - Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 07 - Phonebook\obj\Debug\Problem 07 - Phonebook.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 07 - Phonebook\obj\Debug\Problem 07 - Phonebook.pdb

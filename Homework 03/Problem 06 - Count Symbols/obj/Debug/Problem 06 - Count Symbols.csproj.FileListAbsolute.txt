@@ -1,0 +1,5 @@
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 06 - Count Symbols\bin\Debug\Problem 06 - Count Symbols.exe.config
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 06 - Count Symbols\bin\Debug\Problem 06 - Count Symbols.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 06 - Count Symbols\bin\Debug\Problem 06 - Count Symbols.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 06 - Count Symbols\obj\Debug\Problem 06 - Count Symbols.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 06 - Count Symbols\obj\Debug\Problem 06 - Count Symbols.pdb

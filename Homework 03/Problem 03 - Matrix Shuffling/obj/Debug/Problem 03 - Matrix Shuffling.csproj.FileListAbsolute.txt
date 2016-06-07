@@ -1,0 +1,6 @@
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 03 - Matrix Shuffling\bin\Debug\Problem 03 - Matrix Shuffling.exe.config
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 03 - Matrix Shuffling\bin\Debug\Problem 03 - Matrix Shuffling.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 03 - Matrix Shuffling\bin\Debug\Problem 03 - Matrix Shuffling.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 03 - Matrix Shuffling\obj\Debug\Problem 03 - Matrix Shuffling.csprojResolveAssemblyReference.cache
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 03 - Matrix Shuffling\obj\Debug\Problem 03 - Matrix Shuffling.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 03 - Matrix Shuffling\obj\Debug\Problem 03 - Matrix Shuffling.pdb

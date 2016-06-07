@@ -1,0 +1,5 @@
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 01 - Fill the Matrix\bin\Debug\Problem 01 - Fill the Matrix.exe.config
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 01 - Fill the Matrix\bin\Debug\Problem 01 - Fill the Matrix.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 01 - Fill the Matrix\bin\Debug\Problem 01 - Fill the Matrix.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 01 - Fill the Matrix\obj\Debug\Problem 01 - Fill the Matrix.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 01 - Fill the Matrix\obj\Debug\Problem 01 - Fill the Matrix.pdb

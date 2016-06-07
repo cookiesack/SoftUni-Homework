@@ -1,0 +1,6 @@
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 04 - Sequence In Matrix\bin\Debug\Problem 04 - Sequence In Matrix.exe.config
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 04 - Sequence In Matrix\bin\Debug\Problem 04 - Sequence In Matrix.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 04 - Sequence In Matrix\bin\Debug\Problem 04 - Sequence In Matrix.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 04 - Sequence In Matrix\obj\Debug\Problem 04 - Sequence In Matrix.csprojResolveAssemblyReference.cache
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 04 - Sequence In Matrix\obj\Debug\Problem 04 - Sequence In Matrix.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 03\Problem 04 - Sequence In Matrix\obj\Debug\Problem 04 - Sequence In Matrix.pdb
