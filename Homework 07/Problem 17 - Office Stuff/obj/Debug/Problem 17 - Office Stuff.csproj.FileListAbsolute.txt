@@ -1,0 +1,6 @@
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 07\Problem 17 - Office Stuff\bin\Debug\Problem 17 - Office Stuff.exe.config
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 07\Problem 17 - Office Stuff\bin\Debug\Problem 17 - Office Stuff.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 07\Problem 17 - Office Stuff\bin\Debug\Problem 17 - Office Stuff.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 07\Problem 17 - Office Stuff\obj\Debug\Problem 17 - Office Stuff.csprojResolveAssemblyReference.cache
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 07\Problem 17 - Office Stuff\obj\Debug\Problem 17 - Office Stuff.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 07\Problem 17 - Office Stuff\obj\Debug\Problem 17 - Office Stuff.pdb

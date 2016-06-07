@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 01 - Class Student", "Problem 01 - Class Student\Problem 01 - Class Student.csproj", "{2FFFA2D8-62FE-4454-9D35-A1183F66E166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 17 - Office Stuff", "Problem 17 - Office Stuff\Problem 17 - Office Stuff.csproj", "{2B1C059B-60F3-4BE7-954B-E050AB5E52D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FFFA2D8-62FE-4454-9D35-A1183F66E166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FFFA2D8-62FE-4454-9D35-A1183F66E166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FFFA2D8-62FE-4454-9D35-A1183F66E166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FFFA2D8-62FE-4454-9D35-A1183F66E166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B1C059B-60F3-4BE7-954B-E050AB5E52D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1C059B-60F3-4BE7-954B-E050AB5E52D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1C059B-60F3-4BE7-954B-E050AB5E52D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1C059B-60F3-4BE7-954B-E050AB5E52D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

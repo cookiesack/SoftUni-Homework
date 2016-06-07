@@ -1,0 +1,6 @@
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 07\Problem 01 - Class Student\bin\Debug\Problem 01 - Class Student.exe.config
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 07\Problem 01 - Class Student\bin\Debug\Problem 01 - Class Student.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 07\Problem 01 - Class Student\bin\Debug\Problem 01 - Class Student.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 07\Problem 01 - Class Student\obj\Debug\Problem 01 - Class Student.csprojResolveAssemblyReference.cache
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 07\Problem 01 - Class Student\obj\Debug\Problem 01 - Class Student.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 07\Problem 01 - Class Student\obj\Debug\Problem 01 - Class Student.pdb
