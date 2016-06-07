@@ -1,0 +1,12 @@
+H:\SoftUni\Open Courses\Структури от данни\Lectures\04. Дървета и дървовидни структури\Homework\01. Play with Trees\bin\Debug\_01.Play_with_Trees.exe.config
+H:\SoftUni\Open Courses\Структури от данни\Lectures\04. Дървета и дървовидни структури\Homework\01. Play with Trees\bin\Debug\_01.Play_with_Trees.exe
+H:\SoftUni\Open Courses\Структури от данни\Lectures\04. Дървета и дървовидни структури\Homework\01. Play with Trees\bin\Debug\_01.Play_with_Trees.pdb
+H:\SoftUni\Open Courses\Структури от данни\Lectures\04. Дървета и дървовидни структури\Homework\01. Play with Trees\obj\Debug\01. Play with Trees.csprojResolveAssemblyReference.cache
+H:\SoftUni\Open Courses\Структури от данни\Lectures\04. Дървета и дървовидни структури\Homework\01. Play with Trees\obj\Debug\_01.Play_with_Trees.exe
+H:\SoftUni\Open Courses\Структури от данни\Lectures\04. Дървета и дървовидни структури\Homework\01. Play with Trees\obj\Debug\_01.Play_with_Trees.pdb
+E:\Programs\Repos\SoftUni-Homework\C#\Data Structures\Trees\01. Play with Trees\bin\Debug\_01.Play_with_Trees.exe.config
+E:\Programs\Repos\SoftUni-Homework\C#\Data Structures\Trees\01. Play with Trees\obj\Debug\_01.Play_with_Trees.exe
+E:\Programs\Repos\SoftUni-Homework\C#\Data Structures\Trees\01. Play with Trees\obj\Debug\_01.Play_with_Trees.pdb
+E:\Programs\Repos\SoftUni-Homework\C#\Data Structures\Trees\01. Play with Trees\bin\Debug\_01.Play_with_Trees.exe
+E:\Programs\Repos\SoftUni-Homework\C#\Data Structures\Trees\01. Play with Trees\bin\Debug\_01.Play_with_Trees.pdb
+E:\Programs\Repos\SoftUni-Homework\C#\Data Structures\Trees\01. Play with Trees\obj\Debug\01. Play with Trees.csprojResolveAssemblyReference.cache

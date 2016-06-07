@@ -1,0 +1,5 @@
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 03 - Extract Emails\bin\Debug\Problem 03 - Extract Emails.exe.config
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 03 - Extract Emails\bin\Debug\Problem 03 - Extract Emails.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 03 - Extract Emails\bin\Debug\Problem 03 - Extract Emails.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 03 - Extract Emails\obj\Debug\Problem 03 - Extract Emails.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 03 - Extract Emails\obj\Debug\Problem 03 - Extract Emails.pdb

@@ -1,0 +1,7 @@
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\DataStructures\Collection Data Structures and Libraries\Problem 02 - PriceRange\bin\Debug\Problem 02 - PriceRange.exe.config
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\DataStructures\Collection Data Structures and Libraries\Problem 02 - PriceRange\bin\Debug\Problem 02 - PriceRange.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\DataStructures\Collection Data Structures and Libraries\Problem 02 - PriceRange\bin\Debug\Problem 02 - PriceRange.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\DataStructures\Collection Data Structures and Libraries\Problem 02 - PriceRange\bin\Debug\PowerCollections.dll
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\DataStructures\Collection Data Structures and Libraries\Problem 02 - PriceRange\bin\Debug\PowerCollections.xml
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\DataStructures\Collection Data Structures and Libraries\Problem 02 - PriceRange\obj\Debug\Problem 02 - PriceRange.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\DataStructures\Collection Data Structures and Libraries\Problem 02 - PriceRange\obj\Debug\Problem 02 - PriceRange.pdb

@@ -1,0 +1,5 @@
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 06 - Extract Hyperlinks\bin\Debug\Problem 06 - Extract Hyperlinks.exe.config
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 06 - Extract Hyperlinks\bin\Debug\Problem 06 - Extract Hyperlinks.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 06 - Extract Hyperlinks\bin\Debug\Problem 06 - Extract Hyperlinks.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 06 - Extract Hyperlinks\obj\Debug\Problem 06 - Extract Hyperlinks.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 06 - Extract Hyperlinks\obj\Debug\Problem 06 - Extract Hyperlinks.pdb

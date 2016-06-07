@@ -1,0 +1,6 @@
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 05 - Valid Usernames\bin\Debug\Problem 05 - Valid Usernames.exe.config
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 05 - Valid Usernames\bin\Debug\Problem 05 - Valid Usernames.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 05 - Valid Usernames\bin\Debug\Problem 05 - Valid Usernames.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 05 - Valid Usernames\obj\Debug\Problem 05 - Valid Usernames.csprojResolveAssemblyReference.cache
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 05 - Valid Usernames\obj\Debug\Problem 05 - Valid Usernames.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 05 - Valid Usernames\obj\Debug\Problem 05 - Valid Usernames.pdb

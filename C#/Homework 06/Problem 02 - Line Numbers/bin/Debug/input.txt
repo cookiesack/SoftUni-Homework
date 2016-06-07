@@ -1,0 +1,6 @@
+a file
+to be read
+
+by the program
+which
+i made

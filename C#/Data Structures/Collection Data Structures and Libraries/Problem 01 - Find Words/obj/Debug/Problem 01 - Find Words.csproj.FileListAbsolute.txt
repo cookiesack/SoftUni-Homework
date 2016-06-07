@@ -1,0 +1,8 @@
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\DataStructures\Collection Data Structures and Libraries\Problem 01 - Find Words\bin\Debug\Problem 01 - Find Words.exe.config
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\DataStructures\Collection Data Structures and Libraries\Problem 01 - Find Words\bin\Debug\Problem 01 - Find Words.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\DataStructures\Collection Data Structures and Libraries\Problem 01 - Find Words\bin\Debug\Problem 01 - Find Words.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\DataStructures\Collection Data Structures and Libraries\Problem 01 - Find Words\obj\Debug\Problem 01 - Find Words.csprojResolveAssemblyReference.cache
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\DataStructures\Collection Data Structures and Libraries\Problem 01 - Find Words\obj\Debug\Problem 01 - Find Words.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\DataStructures\Collection Data Structures and Libraries\Problem 01 - Find Words\obj\Debug\Problem 01 - Find Words.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\DataStructures\Collection Data Structures and Libraries\Problem 01 - Find Words\bin\Debug\PowerCollections.dll
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\DataStructures\Collection Data Structures and Libraries\Problem 01 - Find Words\bin\Debug\PowerCollections.xml

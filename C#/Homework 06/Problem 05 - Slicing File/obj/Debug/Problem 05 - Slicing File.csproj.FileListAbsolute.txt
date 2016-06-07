@@ -1,0 +1,6 @@
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 05 - Slicing File\bin\Debug\Problem 05 - Slicing File.exe.config
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 05 - Slicing File\bin\Debug\Problem 05 - Slicing File.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 05 - Slicing File\bin\Debug\Problem 05 - Slicing File.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 05 - Slicing File\obj\Debug\Problem 05 - Slicing File.csprojResolveAssemblyReference.cache
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 05 - Slicing File\obj\Debug\Problem 05 - Slicing File.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 05 - Slicing File\obj\Debug\Problem 05 - Slicing File.pdb

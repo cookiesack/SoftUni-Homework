@@ -1,0 +1,6 @@
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 03 - Word Count\bin\Debug\Problem 03 - Word Count.exe.config
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 03 - Word Count\bin\Debug\Problem 03 - Word Count.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 03 - Word Count\bin\Debug\Problem 03 - Word Count.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 03 - Word Count\obj\Debug\Problem 03 - Word Count.csprojResolveAssemblyReference.cache
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 03 - Word Count\obj\Debug\Problem 03 - Word Count.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 03 - Word Count\obj\Debug\Problem 03 - Word Count.pdb

@@ -1,0 +1,5 @@
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\03. Array-Based Stack\bin\Debug\_03.Array_Based_Stack.exe.config
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\03. Array-Based Stack\bin\Debug\_03.Array_Based_Stack.exe
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\03. Array-Based Stack\bin\Debug\_03.Array_Based_Stack.pdb
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\03. Array-Based Stack\obj\Debug\_03.Array_Based_Stack.exe
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\03. Array-Based Stack\obj\Debug\_03.Array_Based_Stack.pdb

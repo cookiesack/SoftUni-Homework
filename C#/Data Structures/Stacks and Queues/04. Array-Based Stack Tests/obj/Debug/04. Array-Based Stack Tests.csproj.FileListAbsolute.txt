@@ -1,0 +1,7 @@
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\04. Array-Based Stack Tests\bin\Debug\_04.Array_Based_Stack_Tests.dll
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\04. Array-Based Stack Tests\bin\Debug\_04.Array_Based_Stack_Tests.pdb
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\04. Array-Based Stack Tests\bin\Debug\_03.Array_Based_Stack.exe
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\04. Array-Based Stack Tests\bin\Debug\_03.Array_Based_Stack.pdb
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\04. Array-Based Stack Tests\obj\Debug\04. Array-Based Stack Tests.csprojResolveAssemblyReference.cache
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\04. Array-Based Stack Tests\obj\Debug\_04.Array_Based_Stack_Tests.dll
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\04. Array-Based Stack Tests\obj\Debug\_04.Array_Based_Stack_Tests.pdb

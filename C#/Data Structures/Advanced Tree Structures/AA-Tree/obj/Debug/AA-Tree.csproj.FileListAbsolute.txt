@@ -1,0 +1,6 @@
+c:\users\martin\documents\visual studio 2015\Projects\DataStructures\Advanced Tree Structures\AA-Tree\bin\Debug\AA-Tree.exe.config
+C:\Users\Martin\documents\visual studio 2015\Projects\DataStructures\Advanced Tree Structures\AA-Tree\obj\Debug\AA-Tree.csprojResolveAssemblyReference.cache
+C:\Users\Martin\documents\visual studio 2015\Projects\DataStructures\Advanced Tree Structures\AA-Tree\bin\Debug\AA-Tree.exe
+C:\Users\Martin\documents\visual studio 2015\Projects\DataStructures\Advanced Tree Structures\AA-Tree\bin\Debug\AA-Tree.pdb
+C:\Users\Martin\documents\visual studio 2015\Projects\DataStructures\Advanced Tree Structures\AA-Tree\obj\Debug\AA-Tree.exe
+C:\Users\Martin\documents\visual studio 2015\Projects\DataStructures\Advanced Tree Structures\AA-Tree\obj\Debug\AA-Tree.pdb

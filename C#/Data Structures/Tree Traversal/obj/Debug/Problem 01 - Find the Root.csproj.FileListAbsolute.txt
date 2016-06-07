@@ -1,0 +1,6 @@
+H:\SoftUni\Open Courses\Структури от данни\Lectures\05. Дървообхождащи алгоритми - BFS и DFS\Homework\BFSandDFS\Problem 01 - Find the Root\bin\Debug\Problem 01 - Find the Root.exe.config
+H:\SoftUni\Open Courses\Структури от данни\Lectures\05. Дървообхождащи алгоритми - BFS и DFS\Homework\BFSandDFS\Problem 01 - Find the Root\bin\Debug\Problem 01 - Find the Root.exe
+H:\SoftUni\Open Courses\Структури от данни\Lectures\05. Дървообхождащи алгоритми - BFS и DFS\Homework\BFSandDFS\Problem 01 - Find the Root\bin\Debug\Problem 01 - Find the Root.pdb
+H:\SoftUni\Open Courses\Структури от данни\Lectures\05. Дървообхождащи алгоритми - BFS и DFS\Homework\BFSandDFS\Problem 01 - Find the Root\obj\Debug\Problem 01 - Find the Root.csprojResolveAssemblyReference.cache
+H:\SoftUni\Open Courses\Структури от данни\Lectures\05. Дървообхождащи алгоритми - BFS и DFS\Homework\BFSandDFS\Problem 01 - Find the Root\obj\Debug\Problem 01 - Find the Root.exe
+H:\SoftUni\Open Courses\Структури от данни\Lectures\05. Дървообхождащи алгоритми - BFS и DFS\Homework\BFSandDFS\Problem 01 - Find the Root\obj\Debug\Problem 01 - Find the Root.pdb

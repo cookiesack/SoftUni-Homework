@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 01 - Find Words", "Problem 01 - Find Words\Problem 01 - Find Words.csproj", "{971BAB68-8F79-4989-8409-CC93685710FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 02 - PriceRange", "Problem 02 - PriceRange\Problem 02 - PriceRange.csproj", "{CBF104E2-D093-4038-89A3-66D18EF9B4E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 03 - BinaryHeap", "Problem 03 - BinaryHeap\Problem 03 - BinaryHeap.csproj", "{10AD84A6-7A11-4F2D-9637-3ABB532D7D1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 04 - Str Editor", "Problem 04 - Str Editor\Problem 04 - Str Editor.csproj", "{1019B95E-CB09-4864-930D-3ED855833841}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{971BAB68-8F79-4989-8409-CC93685710FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971BAB68-8F79-4989-8409-CC93685710FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971BAB68-8F79-4989-8409-CC93685710FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971BAB68-8F79-4989-8409-CC93685710FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF104E2-D093-4038-89A3-66D18EF9B4E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF104E2-D093-4038-89A3-66D18EF9B4E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF104E2-D093-4038-89A3-66D18EF9B4E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF104E2-D093-4038-89A3-66D18EF9B4E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10AD84A6-7A11-4F2D-9637-3ABB532D7D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10AD84A6-7A11-4F2D-9637-3ABB532D7D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10AD84A6-7A11-4F2D-9637-3ABB532D7D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10AD84A6-7A11-4F2D-9637-3ABB532D7D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1019B95E-CB09-4864-930D-3ED855833841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1019B95E-CB09-4864-930D-3ED855833841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1019B95E-CB09-4864-930D-3ED855833841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1019B95E-CB09-4864-930D-3ED855833841}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+c:\users\martin\documents\visual studio 2015\Projects\DataStructures\Efficiency\Problem 01 - Students and Courses\bin\Debug\Problem 01 - Students and Courses.exe.config
+c:\users\martin\documents\visual studio 2015\Projects\DataStructures\Efficiency\Problem 01 - Students and Courses\bin\Debug\Problem 01 - Students and Courses.exe
+c:\users\martin\documents\visual studio 2015\Projects\DataStructures\Efficiency\Problem 01 - Students and Courses\bin\Debug\Problem 01 - Students and Courses.pdb
+c:\users\martin\documents\visual studio 2015\Projects\DataStructures\Efficiency\Problem 01 - Students and Courses\obj\Debug\Problem 01 - Students and Courses.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2015\Projects\DataStructures\Efficiency\Problem 01 - Students and Courses\obj\Debug\Problem 01 - Students and Courses.exe
+c:\users\martin\documents\visual studio 2015\Projects\DataStructures\Efficiency\Problem 01 - Students and Courses\obj\Debug\Problem 01 - Students and Courses.pdb

@@ -1,0 +1,6 @@
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 01 - Odd Lines\bin\Debug\Problem 01 - Odd Lines.exe.config
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 01 - Odd Lines\bin\Debug\Problem 01 - Odd Lines.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 01 - Odd Lines\bin\Debug\Problem 01 - Odd Lines.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 01 - Odd Lines\obj\Debug\Problem 01 - Odd Lines.csprojResolveAssemblyReference.cache
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 01 - Odd Lines\obj\Debug\Problem 01 - Odd Lines.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 01 - Odd Lines\obj\Debug\Problem 01 - Odd Lines.pdb

@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\DataStructures\Advanced Tree Structures\IntervalTree\bin\Debug\IntervalTreeLib.dll
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\DataStructures\Advanced Tree Structures\IntervalTree\bin\Debug\IntervalTreeLib.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\DataStructures\Advanced Tree Structures\IntervalTree\bin\Debug\PowerCollections.dll
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\DataStructures\Advanced Tree Structures\IntervalTree\bin\Debug\PowerCollections.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\DataStructures\Advanced Tree Structures\IntervalTree\obj\Debug\IntervalTree.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\DataStructures\Advanced Tree Structures\IntervalTree\obj\Debug\IntervalTreeLib.dll
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\DataStructures\Advanced Tree Structures\IntervalTree\obj\Debug\IntervalTreeLib.pdb

@@ -1,0 +1,6 @@
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\02. Calculate Sequence\bin\Debug\_02.Calculate_Sequence.exe.config
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\02. Calculate Sequence\bin\Debug\_02.Calculate_Sequence.exe
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\02. Calculate Sequence\bin\Debug\_02.Calculate_Sequence.pdb
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\02. Calculate Sequence\obj\Debug\02. Calculate Sequence.csprojResolveAssemblyReference.cache
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\02. Calculate Sequence\obj\Debug\_02.Calculate_Sequence.exe
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\02. Calculate Sequence\obj\Debug\_02.Calculate_Sequence.pdb

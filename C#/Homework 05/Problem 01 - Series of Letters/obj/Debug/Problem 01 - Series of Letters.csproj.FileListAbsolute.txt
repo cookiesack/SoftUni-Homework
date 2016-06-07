@@ -1,0 +1,6 @@
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 01 - Series of Letters\bin\Debug\Problem 01 - Series of Letters.exe.config
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 01 - Series of Letters\bin\Debug\Problem 01 - Series of Letters.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 01 - Series of Letters\bin\Debug\Problem 01 - Series of Letters.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 01 - Series of Letters\obj\Debug\Problem 01 - Series of Letters.csprojResolveAssemblyReference.cache
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 01 - Series of Letters\obj\Debug\Problem 01 - Series of Letters.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 01 - Series of Letters\obj\Debug\Problem 01 - Series of Letters.pdb

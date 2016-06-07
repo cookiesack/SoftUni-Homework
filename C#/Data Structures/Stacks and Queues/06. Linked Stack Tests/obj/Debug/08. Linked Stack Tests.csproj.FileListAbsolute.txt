@@ -1,0 +1,7 @@
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\08. Linked Stack Tests\bin\Debug\_08.Linked_Stack_Tests.dll
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\08. Linked Stack Tests\bin\Debug\_08.Linked_Stack_Tests.pdb
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\08. Linked Stack Tests\obj\Debug\08. Linked Stack Tests.csprojResolveAssemblyReference.cache
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\08. Linked Stack Tests\obj\Debug\_08.Linked_Stack_Tests.dll
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\08. Linked Stack Tests\obj\Debug\_08.Linked_Stack_Tests.pdb
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\08. Linked Stack Tests\bin\Debug\_05.Linked_Stack.exe
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\08. Linked Stack Tests\bin\Debug\_05.Linked_Stack.pdb

@@ -1,0 +1,8 @@
+c:\users\martin\documents\visual studio 2015\Projects\DataStructures\Efficiency\Problem 03 - Collection of Products\bin\Debug\Problem 03 - Collection of Products.exe.config
+C:\Users\Martin\documents\visual studio 2015\Projects\DataStructures\Efficiency\Problem 03 - Collection of Products\bin\Debug\Problem 03 - Collection of Products.exe
+C:\Users\Martin\documents\visual studio 2015\Projects\DataStructures\Efficiency\Problem 03 - Collection of Products\bin\Debug\Problem 03 - Collection of Products.pdb
+C:\Users\Martin\documents\visual studio 2015\Projects\DataStructures\Efficiency\Problem 03 - Collection of Products\bin\Debug\PowerCollections.dll
+C:\Users\Martin\documents\visual studio 2015\Projects\DataStructures\Efficiency\Problem 03 - Collection of Products\bin\Debug\PowerCollections.xml
+C:\Users\Martin\documents\visual studio 2015\Projects\DataStructures\Efficiency\Problem 03 - Collection of Products\obj\Debug\Problem 03 - Collection of Products.csprojResolveAssemblyReference.cache
+C:\Users\Martin\documents\visual studio 2015\Projects\DataStructures\Efficiency\Problem 03 - Collection of Products\obj\Debug\Problem 03 - Collection of Products.exe
+C:\Users\Martin\documents\visual studio 2015\Projects\DataStructures\Efficiency\Problem 03 - Collection of Products\obj\Debug\Problem 03 - Collection of Products.pdb

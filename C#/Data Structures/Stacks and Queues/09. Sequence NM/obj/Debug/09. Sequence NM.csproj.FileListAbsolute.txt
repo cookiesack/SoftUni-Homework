@@ -1,0 +1,6 @@
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\09. Sequence NM\bin\Debug\_09.Sequence_NM.exe.config
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\09. Sequence NM\bin\Debug\_09.Sequence_NM.exe
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\09. Sequence NM\bin\Debug\_09.Sequence_NM.pdb
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\09. Sequence NM\obj\Debug\09. Sequence NM.csprojResolveAssemblyReference.cache
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\09. Sequence NM\obj\Debug\_09.Sequence_NM.exe
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\09. Sequence NM\obj\Debug\_09.Sequence_NM.pdb

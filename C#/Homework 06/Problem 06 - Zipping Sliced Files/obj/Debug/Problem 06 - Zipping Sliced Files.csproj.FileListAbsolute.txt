@@ -1,0 +1,6 @@
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 06 - Zipping Sliced Files\bin\Debug\Problem 06 - Zipping Sliced Files.exe.config
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 06 - Zipping Sliced Files\bin\Debug\Problem 06 - Zipping Sliced Files.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 06 - Zipping Sliced Files\bin\Debug\Problem 06 - Zipping Sliced Files.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 06 - Zipping Sliced Files\obj\Debug\Problem 06 - Zipping Sliced Files.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 06 - Zipping Sliced Files\obj\Debug\Problem 06 - Zipping Sliced Files.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 06 - Zipping Sliced Files\obj\Debug\Problem 06 - Zipping Sliced Files.csprojResolveAssemblyReference.cache

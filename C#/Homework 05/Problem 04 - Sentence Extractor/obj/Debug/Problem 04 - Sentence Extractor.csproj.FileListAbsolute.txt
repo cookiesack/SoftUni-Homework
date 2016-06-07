@@ -1,0 +1,6 @@
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 04 - Sentence Extractor\bin\Debug\Problem 04 - Sentence Extractor.exe.config
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 04 - Sentence Extractor\bin\Debug\Problem 04 - Sentence Extractor.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 04 - Sentence Extractor\bin\Debug\Problem 04 - Sentence Extractor.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 04 - Sentence Extractor\obj\Debug\Problem 04 - Sentence Extractor.csprojResolveAssemblyReference.cache
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 04 - Sentence Extractor\obj\Debug\Problem 04 - Sentence Extractor.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 04 - Sentence Extractor\obj\Debug\Problem 04 - Sentence Extractor.pdb

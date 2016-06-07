@@ -1,0 +1,6 @@
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 07 - Directory Traversal\bin\Debug\Problem 07 - Directory Traversal.exe.config
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 07 - Directory Traversal\bin\Debug\Problem 07 - Directory Traversal.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 07 - Directory Traversal\bin\Debug\Problem 07 - Directory Traversal.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 07 - Directory Traversal\obj\Debug\Problem 07 - Directory Traversal.csprojResolveAssemblyReference.cache
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 07 - Directory Traversal\obj\Debug\Problem 07 - Directory Traversal.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 07 - Directory Traversal\obj\Debug\Problem 07 - Directory Traversal.pdb

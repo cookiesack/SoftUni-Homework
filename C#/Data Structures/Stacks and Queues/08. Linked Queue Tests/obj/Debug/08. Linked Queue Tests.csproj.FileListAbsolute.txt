@@ -1,0 +1,7 @@
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\08. Linked Queue Tests\bin\Debug\_08.Linked_Queue_Tests.dll
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\08. Linked Queue Tests\bin\Debug\_08.Linked_Queue_Tests.pdb
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\08. Linked Queue Tests\bin\Debug\_07.Linked_Queue.exe
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\08. Linked Queue Tests\bin\Debug\_07.Linked_Queue.pdb
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\08. Linked Queue Tests\obj\Debug\08. Linked Queue Tests.csprojResolveAssemblyReference.cache
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\08. Linked Queue Tests\obj\Debug\_08.Linked_Queue_Tests.dll
+H:\SoftUni\Open Courses\Структури от данни\Lectures\03. Линейни структури данни - стекове и опашки\Homework\08. Linked Queue Tests\obj\Debug\_08.Linked_Queue_Tests.pdb

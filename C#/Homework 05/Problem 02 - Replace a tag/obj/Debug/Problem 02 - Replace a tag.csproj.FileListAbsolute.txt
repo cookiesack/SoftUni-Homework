@@ -1,0 +1,6 @@
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 02 - Replace a tag\bin\Debug\Problem 02 - Replace a tag.exe.config
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 02 - Replace a tag\bin\Debug\Problem 02 - Replace a tag.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 02 - Replace a tag\bin\Debug\Problem 02 - Replace a tag.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 02 - Replace a tag\obj\Debug\Problem 02 - Replace a tag.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 02 - Replace a tag\obj\Debug\Problem 02 - Replace a tag.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 05\Problem 02 - Replace a tag\obj\Debug\Problem 02 - Replace a tag.csprojResolveAssemblyReference.cache

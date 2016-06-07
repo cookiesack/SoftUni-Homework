@@ -1,0 +1,6 @@
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 04 - Copy Binary File\bin\Debug\Problem 04 - Copy Binary File.exe.config
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 04 - Copy Binary File\bin\Debug\Problem 04 - Copy Binary File.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 04 - Copy Binary File\bin\Debug\Problem 04 - Copy Binary File.pdb
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 04 - Copy Binary File\obj\Debug\Problem 04 - Copy Binary File.csprojResolveAssemblyReference.cache
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 04 - Copy Binary File\obj\Debug\Problem 04 - Copy Binary File.exe
+C:\Users\CookieSack\Documents\Visual Studio 2013\Projects\Homework\Level 1\Homework 06\Problem 04 - Copy Binary File\obj\Debug\Problem 04 - Copy Binary File.pdb
